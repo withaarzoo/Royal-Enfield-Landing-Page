@@ -50,11 +50,11 @@ This project is open-source and available under the [MIT License](LICENSE). You 
 
 ## Video Tutorial
 
-For a step-by-step guide on how to create this Royal Enfield website, check out the video tutorial on [YouTube](https://www.youtube.com/@codewithaarzoo).
+For a step-by-step guide on how to create this Royal Enfield website, check out the video tutorial on [YouTube](https://youtu.be/Rj69WCj7w6M?si=5r51Fzv8TVaLx2d1).
 
 ## Full Source Code
 
-The complete source code can be found at the following URL: aarzoo.com.
+The complete source code can be found at the following URL: [patreon](http://bit.ly/codewithaarzoo).
 
 ---
 
